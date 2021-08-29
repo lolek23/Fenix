@@ -1,0 +1,27 @@
+{
+    "Colors":{
+
+
+        "PrimaryColor":"#E8175D",
+        "SecColor":"#474747",      
+        "TextColor":"#ECECEC",
+
+
+        "btnPrimaryColor1":"#E8175D",
+        "btnPrimaryColor2":"#CC527A",
+        "btnPrimaryShadow1":"204, 82, 122, .3",
+
+        "btnSecColor1":"#474747",
+        "btnSecColor2":"#505050",
+        "btnSecShadow1":"80, 80, 80, .3",
+
+        "PrimGridColor":"#474747",
+        "SecGridColor":"#363636"
+        
+
+    },
+    "connect":{
+      "connectApi":"https://sebaplus.sebalogistics.cz/sebaApi/"
+    }
+
+}
